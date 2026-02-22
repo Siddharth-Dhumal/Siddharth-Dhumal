@@ -40,9 +40,7 @@
 </p>
 
 <p align="center">
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api?username=Siddharth-Dhumal&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&cache_seconds=86400"
-       alt="GitHub stats" />
+  <img height="150" src="assets/generated/github-stats.svg" alt="GitHub stats" />
   <img height="150"
        src="https://streak-stats.demolab.com/?user=Siddharth-Dhumal&hide_border=true&theme=transparent"
        alt="GitHub streak" />
